@@ -4,7 +4,7 @@
 ## About Problem:
 <p><h3> HR analytics is revolutionising the way human resources departments operate, leading to higher efficiency and better results overall. Human resources has been using analytics for years. However, the collection, processing and analysis of data has been largely manual, and given the nature of human resources dynamics and HR KPIs, the approach has been constraining HR. Therefore, it is surprising that HR departments woke up to the utility of machine learning so late in the game. Here is an opportunity to try predictive analytics in identifying the employees most likely to get promoted.</h3></p>
   
-![HR_analytics 1](https://user-images.githubusercontent.com/72686156/105345102-d43a8c80-5c09-11eb-8239-47f3d493c40c.jpg)
+![HR_analytics 2](https://user-images.githubusercontent.com/72686156/105345920-dfda8300-5c0a-11eb-98a3-02400a154259.jpg)
 
 ---
 
